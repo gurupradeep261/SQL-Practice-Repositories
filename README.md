@@ -27,11 +27,13 @@ SQL practice repository created for learning SQL queries and improving database 
 
 ✔ LEFT JOIN
 
-✔ Contraints
-
+✔ Store Procedures
+  
 ## Repository Structure
 
 Basic Queries
+
+SQL Commands (DDL, DML, DQL, DCL, TCL)
 
 Aggregate Functions
 
